@@ -12,3 +12,5 @@ function myFunction() {
   alert("You win!");
 }
 </script>
+</html>
+</head>
